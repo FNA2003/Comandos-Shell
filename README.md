@@ -1,5 +1,5 @@
 # Comandos Shell
- Este programa para entornos __unix__, toma un comando de entrada junto a parámetros asociados a este y lo ejecuta en un proceso __pesado__ hijo, desde el padre, mostrando por salida estándar su resultado cada 255 caracteres.... Los comandos van desde los definidos en PATH hasta programas locales del directorio.
+ Este programa para entornos __unix__, toma un comando de entrada junto a los parámetros asociados a este y, los ejecuta en un proceso __pesado__. Desde el padre, muestra por salida estándar el resultado cada 255 caracteres (máximo) de la ejecución del proceso hijo.... Los comandos van desde los definidos en PATH hasta programas locales del directorio.
 
 <sup>**Nota:** Este repositorio es parte de un conjunto de soluciones a problemas típicos presentes en la programación de 'bajo nivel' en C.</sup>
 
